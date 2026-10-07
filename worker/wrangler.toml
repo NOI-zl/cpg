@@ -17,8 +17,8 @@ migrations_dir = "migrations"
 
 [vars]
 # Shown on the Dashboard / Settings page. Replace with your real gateway domain.
-GATEWAY_BASE_URL = "https://ai.example.com"
-APP_NAME = "Personal AI Gateway"
+GATEWAY_BASE_URL = "https://api.noi-zl.top"
+APP_NAME = "YLY API"
 
 [triggers]
 crons = ["0 1 * * *"]
